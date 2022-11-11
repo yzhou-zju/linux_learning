@@ -1,0 +1,19 @@
+linux  zip文件怎么解压
+unzip file.zip
+
+在linux环境中如何运行C++程序
+用touch命令创建一个cpp文件
+g++ hello1.cpp -o hello1命令生成一个hello1.out可执行程序，其中-o hello1，是我们要创建的文件名，默认是a.out。
+./hello1
+
+Ubuntu20.04如何卸载软件
+sudo apt-get remove --purge 软件名
+sudo dpkg -r --purge *.deb
+
+
+ctrl z   ctrl y
+
+与（&&）、或（||）、非(!) 
+
+ubuntu 空间不足 记得查看 垃圾站
+https://blog.csdn.net/BigData_Mining/article/details/88998472
